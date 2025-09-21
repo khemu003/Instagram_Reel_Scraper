@@ -135,4 +135,3 @@ Example Response:
 ## Contact
 
 For any questions or suggestions, please open an issue in this repository.
-```
