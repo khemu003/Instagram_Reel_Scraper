@@ -22,6 +22,12 @@ This project provides a lightweight and efficient REST API built with Python to 
 - Python 3.8+
 - Docker (optional, for containerized deployment)
 
+### Initialize Project with uv
+
+```
+uv init
+```
+
 ### Setting up Virtual Environment
 
 It is highly recommended to use a Python virtual environment to manage dependencies and avoid package conflicts.
@@ -30,7 +36,7 @@ Create a virtual environment in your project directory:
 
 ```
 
-python -m venv .venv
+uv venv
 
 ```
 
